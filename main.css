@@ -93,10 +93,12 @@ img {
   animation-name: fade;
   animation-duration: 1.5s;
 }
+
 .test-add {
   text-align: center;
   font-size: 30px;
 }
+
 @-webkit-keyframes fade {
   from {
     opacity: 0.4;
